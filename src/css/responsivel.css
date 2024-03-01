@@ -1,0 +1,24 @@
+@media(max-width:420px) {
+    .card {
+        width: 380px;
+        margin-right: 10px;
+    }
+}
+
+@media(max-width:394px) {
+    .card {
+        width: 320px;
+    }
+    .card-content .font-1 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:354px) {
+    .card {
+        width: 299px;
+    }
+    .card-content .font-1 {
+        font-size: 20px;
+    }
+}
